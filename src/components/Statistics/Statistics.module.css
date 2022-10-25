@@ -1,0 +1,14 @@
+.statList {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.title {
+
+    text-align: center;
+}
+
+.statistics {
+    background-color: rgb(90, 107, 231);
+}
